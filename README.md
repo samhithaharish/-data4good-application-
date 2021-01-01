@@ -1,10 +1,30 @@
 # -data4good-application-
- a python project that calculates vehicle sales
-this project is purely based on python.This highlights usage of different libraries in python that helps in displaying graphs more accurately for example plotly.graph.
-this project mainly deals with the display of sales of the particular year vehicles.
-i have attached a csv excel file that contans the year sales.
-It can help in coding programmes on graphs of any kind of sales
-i have gotten the excel file from my university which helped me proceed with my project.
-i took about 3 days to complete this project
-it is an easy project which helps u boost your confidence for coding more complex level programs.
-To run this program just import the csv file and the excel sales sheet. Then run it on your terminal giving the file name 
+ROCK PAPER SCISSORS GAME:
+this game is a basic fun game created using simple logics of python.
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+this is a basic rock paper scissors which is played the same way in a computerised version; created using python
+
+##technologies:
+*python 3.7.8
+
+##setup
+open the file attched in the form of project using the python idle; when you do that it gives 3 options:
+1. rock 2. paper 3. scissors
+Once u do this you get a computer choice which decides the result according to the option you have entered.
+
+##sources:
+inspired by a project in our university
+
+##features:
+a very simple basic python program that enables you to learn certain dimensions of the python language.
+
+##status:
+it took me just a day to complete this with the basic formulas and basic knowledge of python
+
+
