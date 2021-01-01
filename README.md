@@ -18,7 +18,7 @@ this is a basic rock paper scissors which is played the same way in a computeris
 *python 3.7.8
 
 ## Setup
-open the file attched in the form of project using the python idle; when you do that it gives 3 options:
+download the zip file in the form of project using the python idle; when you do that it gives 3 options:
 1. rock 2. paper 3. scissors
 Once u do this you get a computer choice which decides the result according to the option you have entered.
 ## Sources
